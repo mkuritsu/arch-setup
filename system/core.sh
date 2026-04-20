@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-install_packages linux-headers base-devel man-db man-pages git
+install_packages linux-headers base-devel man-db man-pages git fuse2
 
 gpu_info="$(lspci -nn | grep -Ei 'VGA|3D|Display')"
 vulkan_pkgs=()
