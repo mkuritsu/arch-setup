@@ -7,4 +7,5 @@ install_packages rustup
 install_packages uv
 
 curl -fsSL https://vite.plus | bash
+
 curl -fsSL https://bun.sh/install | bash
