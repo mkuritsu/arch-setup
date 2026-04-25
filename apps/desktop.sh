@@ -2,6 +2,7 @@
 
 install_packages ghostty
 install_packages nautilus papers loupe file-roller
+install_packages mpv
 install_packages keyd
 
 install_aur_packages helium-browser-bin
