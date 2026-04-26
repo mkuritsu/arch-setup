@@ -3,7 +3,6 @@
 install_packages flatpak
 
 install_flatpaks com.spotify.Client
-install_flatpaks com.bitwarden.desktop
 install_flatpaks com.discordapp.Discord
 
 # Enable Discord IPC socket
