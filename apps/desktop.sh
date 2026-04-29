@@ -7,6 +7,7 @@ install_packages keyd
 
 install_aur_packages helium-browser-bin
 install_aur_packages opentabletdriver
+install_aur_packages vicinae-bin
 
 systemctl enable --user --now opentabletdriver
 
