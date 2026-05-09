@@ -3,4 +3,5 @@
 install_packages gpu-screen-recorder hyprpicker hyprpolkitagent
 install_packages playerctl brightnessctl
 
-install_packages dms-shell
+install_packages dms-shell cava matugen kimageformats cups-pk-helper
+
