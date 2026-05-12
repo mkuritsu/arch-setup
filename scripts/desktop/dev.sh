@@ -11,4 +11,4 @@ install_packages rustup
 rustup default stable
 rustup component add rust-analyzer
 
-curl -fsSL https://vite.plus | bash
+# curl -fsSL https://vite.plus | bash
