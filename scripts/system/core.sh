@@ -25,3 +25,5 @@ fi
 install_packages "${graphics_pkgs[@]}"
 
 sudo systemctl enable --now fwupd
+
+sudo cryptsetup --allow-discards --persistent refresh root
